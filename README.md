@@ -1,4 +1,4 @@
-Fin UP APP
+Fin UP App
 ==========
 
 This little application provides a way to daily finance control.
