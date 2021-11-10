@@ -2,7 +2,7 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "../dist/ui/out-tsc/app",
+    "outDir": "./dist/ui/out-tsc/app",
     "types": []
   },
   "files": [
